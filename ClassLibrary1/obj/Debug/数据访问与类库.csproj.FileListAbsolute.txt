@@ -1,0 +1,6 @@
+C:\Users\life\source\repos\TestDemo3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\life\source\repos\TestDemo3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\life\source\repos\TestDemo3\ClassLibrary1\obj\Debug\数据访问与类库.csprojAssemblyReference.cache
+C:\Users\life\source\repos\TestDemo3\ClassLibrary1\obj\Debug\数据访问与类库.csproj.CoreCompileInputs.cache
+C:\Users\life\source\repos\TestDemo3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\life\source\repos\TestDemo3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
